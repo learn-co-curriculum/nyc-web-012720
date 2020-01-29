@@ -8,3 +8,4 @@
 | Topic                             | Code                                   | Video                                      |
 | -----                             | ----                                   | -----                                      |
 | Review 🏀| [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/01-hashketball-review) | [Old Video](https://youtu.be/hVulfXJ2M_E) / [Video](https://youtu.be/0cxHFG9gXx0) |
+| Intro to OO 🏀| [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/02-intro-to-oo) | [Video 1](https://youtu.be/GP9JSeK2a74) / [Video 2]() |
