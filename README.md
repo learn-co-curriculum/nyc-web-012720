@@ -12,3 +12,6 @@
 | One to Many 🌏| [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/03-one-to-many) | [Video](https://youtu.be/2qnFfAXC7s0) |
 | Many to Many 🥼| [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/04-many-to-many) | [Video](https://youtu.be/yCCoaW0nJMM) |
 | OO Review 💪 | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/05-oo-review) | [Video](https://youtu.be/eW_6cZSb7DA) |
+| SQL Review ② | [Code](https://github.com/learn-co-students/nyc-clarke-web-010620/tree/master/08-sql-review) | [Video](https://youtu.be/rkYd6YyARz8) |
+| Inheritance 🏘 | [Code](https://github.com/learn-co-students/nyc-clarke-web-010620/tree/master/10-inheritance) | [Video](https://youtu.be/uW_OvpGxshI) |
+| Intro to ORMs 🏴‍☠️| [Code](https://github.com/learn-co-students/nyc-clarke-web-010620/tree/master/09-intro-to-orms) | [Video](https://youtu.be/AvjHI1rO6f0) |
