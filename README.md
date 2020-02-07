@@ -15,3 +15,4 @@
 | SQL Review ② | [Code](https://github.com/learn-co-students/nyc-clarke-web-010620/tree/master/08-sql-review) | [Video](https://youtu.be/rkYd6YyARz8) |
 | Inheritance 🏘 | [Code](https://github.com/learn-co-students/nyc-clarke-web-010620/tree/master/10-inheritance) | [Video](https://youtu.be/uW_OvpGxshI) |
 | Intro to ORMs 🏴‍☠️| [Code](https://github.com/learn-co-students/nyc-clarke-web-010620/tree/master/09-intro-to-orms) | [Video](https://youtu.be/AvjHI1rO6f0) |
+| ActiveRecord 👩‍🎓| [Code]((https://github.com/learn-co-students/nyc-web-012720/tree/master/06-intro-to-ar) | [Intro](https://youtu.be/svuXC8OpCtI) / [Many-to Many](https://youtu.be/KoyWDRA7iBo) |
