@@ -18,6 +18,7 @@
 | ActiveRecord 👩‍🎓| [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/06-intro-to-ar) | [Intro](https://youtu.be/svuXC8OpCtI) / [Many-to Many](https://youtu.be/KoyWDRA7iBo) |
 | Hashes and the Internet 👩‍🎓| [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/07-hashes-and-the-internet) | [Video](https://youtu.be/rJZFO-gnr0w) |
 | Intro to TDD 🏎💩| [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/08-intro-to-tdd) | [Video](https://youtu.be/VN_7gmn68no) |
+| Active Record Review ✏️📕🔍| [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/09-active-record-review) | [Video](https://youtu.be/OG6Lc7t4Rks) |
 
 
 
