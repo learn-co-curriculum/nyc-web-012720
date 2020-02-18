@@ -23,7 +23,7 @@
 ## Module 2
 | Topic                             | Code                                   | Video                                      |
 | -----                             | ----                                   | -----                                      |
-| Intro to Sinatra & Mod2           |[Code][intro_code]                      |[Video][intro_vid]                          |
+| Intro to Sinatra & Mod2 🎤🎶      |[Code][intro_code]                      |[Video][intro_vid]                          |
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
 [intro_vid]: https://youtu.be/UM_JRT7-v1U
