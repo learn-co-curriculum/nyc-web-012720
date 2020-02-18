@@ -20,7 +20,7 @@
 | Intro to TDD 🏎💩| [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/08-intro-to-tdd) | [Video](https://youtu.be/VN_7gmn68no) |
 | Active Record Review ✏️📕🔍| [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/09-active-record-review) | [Video](https://youtu.be/OG6Lc7t4Rks) |
 
-## Module 1
+## Module 2
 | Topic                             | Code                                   | Video                                      |
 | -----                             | ----                                   | -----                                      |
 | Intro to Sinatra & Mod2           |[Code][intro_code]                      |[Video][intro_vid]                          |
