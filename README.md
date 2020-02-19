@@ -24,9 +24,14 @@
 | Topic                             | Code                                   | Video                                      |
 | -----                             | ----                                   | -----                                      |
 | Intro to Sinatra & Mod2 🎤🎶      |[Code][intro_code]                      |[Video][intro_vid]                          |
+| Sinatra CRUD & REST 😴            |[Code][sinatra_crud_code]               |[Vid1][sin_crud_vid1], [Vid1][sin_crud_vid1]|
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
 [intro_vid]: https://youtu.be/UM_JRT7-v1U
+
+[sinatra_crud_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/11-sinatra-CRUD
+[sin_crud_vid1]: https://youtu.be/D0VXLQLsMzw
+[sin_crud_vid2]: https://youtu.be/xN4euNUNxpA
 
 
 
