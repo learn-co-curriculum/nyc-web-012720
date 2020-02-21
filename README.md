@@ -39,7 +39,7 @@
 [rails_vid]:
 
 [rails_CRU_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/13-rails-CRUD
-[rails_CRU_vid]
+[rails_CRU_vid]: https://youtu.be/xUuwcsl446w
 
 
 
