@@ -36,7 +36,7 @@
 [sin_crud_vid2]: https://youtu.be/xN4euNUNxpA
 
 [rails_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/12-intro-to-rails
-[rails_vid]:
+[rails_vid]:https://youtu.be/tXqWplycPQM
 
 [rails_CRU_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/13-rails-CRUD
 [rails_CRU_vid]: https://youtu.be/xUuwcsl446w
