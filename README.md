@@ -26,6 +26,7 @@
 | Intro to Sinatra & Mod2 🎤🎶      |[Code][intro_code]                      |[Video][intro_vid]                          |
 | Sinatra CRUD & REST 😴            |[Code][sinatra_crud_code]               |[Vid1][sin_crud_vid1], [Vid2][sin_crud_vid2]|
 | Intro to Rails 🚂🛤               |[Code][rails_code]                      |[Video][rails_vid]                          |
+| Rails CRU                          |[Code][rails_CRU_code]                 |[Video][rails_CRU_vid]                      |
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
 [intro_vid]: https://youtu.be/UM_JRT7-v1U
@@ -36,6 +37,9 @@
 
 [rails_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/12-intro-to-rails
 [rails_vid]:
+
+[rails_CRU_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/13-rails-CRUD
+[rails_CRU_vid]
 
 
 
