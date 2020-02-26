@@ -28,6 +28,7 @@
 | Intro to Rails 🚂🛤               |[Code][rails_code]                      |[Video][rails_vid]                          |
 | Rails CRU                          |[Code][rails_CRU_code]                 |[Video][rails_CRU_vid]                      |
 | Rails Associations (D)             |[Code][ra_code]                        |[Video][ra_vid]                             |
+| Rails Validations                 |[Code][ra_val_code]                     |[Video]ss                             |
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
 [intro_vid]: https://youtu.be/UM_JRT7-v1U
@@ -45,3 +46,4 @@
 [ra_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/14-rails-associations
 [ra_vid]: https://youtu.be/lzutbGhtxKA
 
+[ra_val_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/15-rails-validations 
