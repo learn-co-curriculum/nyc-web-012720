@@ -29,6 +29,8 @@
 | Rails CRU                          |[Code][rails_CRU_code]                 |[Video][rails_CRU_vid]                      |
 | Rails Associations (D)             |[Code][ra_code]                        |[Video][ra_vid]                             |
 | Rails Validations                 |[Code][ra_val_code]                     |[V1][raval1], [V2][raval2], [V3][raval3]    |
+| Rails Sessions && 🍪               |[Code][sesh_code]                     |[Video][sesh_vid]    |
+
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
 [intro_vid]: https://youtu.be/UM_JRT7-v1U
@@ -50,3 +52,6 @@
 [raval1]: https://youtu.be/RySDA5TKnSo
 [raval2]: https://youtu.be/vMYc6ntxYOA
 [raval3]: https://youtu.be/ejCbo3Bjwu0
+
+[sesh_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/16-rails-session
+[sesh_vid]: https://youtu.be/DafdrgZkw0U
