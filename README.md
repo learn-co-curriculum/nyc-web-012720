@@ -31,7 +31,7 @@
 | Rails Validations                 |[Code][ra_val_code]                     |[V1][raval1], [V2][raval2], [V3][raval3]    |
 | Rails Sessions && 🍪               |[Code][sesh_code]                     |[Video][sesh_vid]    |
 | Git, Github                        |No Code                     |[Video][git_hub]    |
-| AUTH                             |[Code][auth_code]                     |[uploading][...]    |
+| AUTH                             |[Code][auth_code]                     |[Authorization][auth_video1], [Authentication][auth_video2]    |
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
 [intro_vid]: https://youtu.be/UM_JRT7-v1U
@@ -60,3 +60,5 @@
 [git_hub]: https://youtu.be/_Nd-JeFfs-s
 
 [auth_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/17-rails-auth
+[auth_video1]: https://www.youtube.com/watch?v=C45Hg0Zleuo
+[auth_video2]: https://www.youtube.com/watch?v=mEvbx9BiUDM
