@@ -59,4 +59,4 @@
 
 [git_hub]: https://youtu.be/_Nd-JeFfs-s
 
-[auth-code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/17-rails-auth
+[auth_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/17-rails-auth
