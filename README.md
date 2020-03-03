@@ -30,6 +30,7 @@
 | Rails Associations (D)             |[Code][ra_code]                        |[Video][ra_vid]                             |
 | Rails Validations                 |[Code][ra_val_code]                     |[V1][raval1], [V2][raval2], [V3][raval3]    |
 | Rails Sessions && 🍪               |[Code][sesh_code]                     |[Video][sesh_vid]    |
+| Git, Github                        |[Code][sesh_code]                     |[Video][git_hub]    |
 
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
@@ -54,4 +55,6 @@
 [raval3]: https://youtu.be/ejCbo3Bjwu0
 
 [sesh_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/16-rails-session
-[sesh_vid]: https://youtu.be/DafdrgZkw0U
+[sesh_vid]: https://youtu.be/DafdrgZkw0U 
+
+[git_hub]: https://youtu.be/_Nd-JeFfs-s
