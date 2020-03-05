@@ -32,6 +32,7 @@
 | Rails Sessions && 🍪               |[Code][sesh_code]                     |[Video][sesh_vid]    |
 | Git, Github                        |No Code                     |[Video][git_hub]    |
 | AUTH 🔑🔒                        |[Code][auth_code]                     |[Authorization][auth_video1], [Authentication][auth_video2]    |
+| CSS ✨                        |[Code][css_code]                     |[CSS][css_video]                                |
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
 [intro_vid]: https://youtu.be/UM_JRT7-v1U
@@ -62,3 +63,6 @@
 [auth_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/17-rails-auth
 [auth_video1]: https://www.youtube.com/watch?v=C45Hg0Zleuo
 [auth_video2]: https://www.youtube.com/watch?v=mEvbx9BiUDM
+
+[css_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/18-intro-to-css/css_intro
+[css_video]: https://www.youtube.com/watch?v=poi1jHfmSaA&t=171s
