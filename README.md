@@ -38,7 +38,7 @@
 ## Module 2
 | Topic                             | Code                                   | Video                                      |
 | -----                             | ----                                   | -----                                      |
-| Intro to JS     |[Code][https://github.com/learn-co-students/nyc-web-012720/tree/master/19-intro-to-js]                      |[Video][https://youtu.be/TK7ge5DiqAw]                          |
+| Intro to JS     |[Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/19-intro-to-js)                      |[Video](https://youtu.be/TK7ge5DiqAw)                        |
 
 
 
