@@ -35,10 +35,11 @@
 | CSS ✨                        |[Code][css_code]                     |[CSS][css_video]                                |
 
 
-## Module 2
+## Module 3
 | Topic                             | Code                                   | Video                                      |
 | -----                             | ----                                   | -----                                      |
-| Intro to JS     |[Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/19-intro-to-js)                      |[Video](https://youtu.be/TK7ge5DiqAw)                        |
+| Intro to JS |[Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/19-intro-to-js) |[Video](https://youtu.be/TK7ge5DiqAw) |
+| Functions and Scope | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/20-js-functions-scope) |[Video](https://www.youtube.com/watch?v=KQdTt0QkNU8) |
 
 
 
