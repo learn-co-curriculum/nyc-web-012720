@@ -34,6 +34,14 @@
 | AUTH 🔑🔒                        |[Code][auth_code]                     |[Authorization][auth_video1], [Authentication][auth_video2]    |
 | CSS ✨                        |[Code][css_code]                     |[CSS][css_video]                                |
 
+
+## Module 2
+| Topic                             | Code                                   | Video                                      |
+| -----                             | ----                                   | -----                                      |
+| Intro to JS     |[Code][https://github.com/learn-co-students/nyc-web-012720/tree/master/19-intro-to-js]                      |[Video][https://youtu.be/TK7ge5DiqAw]                          |
+
+
+
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
 [intro_vid]: https://youtu.be/UM_JRT7-v1U
 
