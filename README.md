@@ -40,6 +40,8 @@
 | -----                             | ----                                   | -----                                      |
 | Intro to JS |[Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/19-intro-to-js) |[Video](https://youtu.be/TK7ge5DiqAw) |
 | Functions and Scope | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/20-js-functions-scope) |[Video](https://www.youtube.com/watch?v=KQdTt0QkNU8) |
+| Intro to the Dom | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/21-intro-to-DOM) |[Video](https://youtu.be/tWBCgcoZFBU) |
+
 
 
 
