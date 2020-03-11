@@ -42,7 +42,7 @@
 | Functions and Scope | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/20-js-functions-scope) |[Video](https://www.youtube.com/watch?v=KQdTt0QkNU8) |
 | Intro to the Dom | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/21-intro-to-DOM) |[Video](https://youtu.be/tWBCgcoZFBU) |
 | Intro to Events | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/22-intro-to-events) |[Video](https://youtu.be/W8Mzoc7oZ5g) |
-| Event Delegations | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/23-event-delegation) |Video TBA |
+| Event Delegation | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/23-event-delegation) |Video TBA |
 
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
