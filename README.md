@@ -42,8 +42,8 @@
 | Functions and Scope | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/20-js-functions-scope) |[Video](https://www.youtube.com/watch?v=KQdTt0QkNU8) |
 | Intro to the Dom | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/21-intro-to-DOM) |[Video](https://youtu.be/tWBCgcoZFBU) |
 | Intro to Events | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/22-intro-to-events) |[Video](https://youtu.be/W8Mzoc7oZ5g) |
-| Event Delegation | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/23-event-delegation) |Video TBA |
-| DOM Challenge Review | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/24-dom-challenge-review) |[Video](https://youtu.be/4PDzsMDxoWE) |
+| Event Delegation | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/23-event-delegation) |[Video](https://youtu.be/4PDzsMDxoWE) |
+| DOM Challenge Review | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/24-dom-challenge-review) | Video TBA |
 
 
 
