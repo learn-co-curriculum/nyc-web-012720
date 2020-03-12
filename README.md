@@ -43,7 +43,7 @@
 | Intro to the Dom | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/21-intro-to-DOM) |[Video](https://youtu.be/tWBCgcoZFBU) |
 | Intro to Events | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/22-intro-to-events) |[Video](https://youtu.be/W8Mzoc7oZ5g) |
 | Event Delegation | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/23-event-delegation) |Video TBA |
-| DOM Challenge Review | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/24-dom-challenge-review) |Video TBA |
+| DOM Challenge Review | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/24-dom-challenge-review) |[Video](https://youtu.be/4PDzsMDxoWE) |
 
 
 
