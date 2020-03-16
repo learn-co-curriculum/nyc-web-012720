@@ -45,7 +45,7 @@
 | Event Delegation | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/23-event-delegation) |[Video](https://youtu.be/4PDzsMDxoWE) |
 | DOM Challenge Review | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/24-dom-challenge-review) | [Video](https://youtu.be/O_d9QkC4Md0) |
 | Async & Fetch | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/25-fetch-and-async) | [Video Part 1](https://youtu.be/NTY2IIJelBY) [Video Part 2](https://youtu.be/1AcTGCUImqo)  |
-| Rails API | Code TAB | [Video](https://www.youtube.com/jowhNekhguo) |
+| Rails API | Code TBA | [Video](https://www.youtube.com/watch?v=jowhNekhguo) |
 
 
 
