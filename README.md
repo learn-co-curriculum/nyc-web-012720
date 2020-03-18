@@ -46,7 +46,7 @@
 | DOM Challenge Review | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/24-dom-challenge-review) | [Video](https://youtu.be/O_d9QkC4Md0) |
 | Async & Fetch | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/25-fetch-and-async) | [Video Part 1](https://youtu.be/NTY2IIJelBY), [Video Part 2](https://youtu.be/1AcTGCUImqo)  |
 | Rails API | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/26-rails-api) | [Video](https://www.youtube.com/watch?v=jowhNekhguo), [API Quiz Review](https://youtu.be/M1JQmD6PN7g) |
-| Fetch and Optimistic/Pessimistic Rendering | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/27-fetch-refactoring) | Video TBA |
+| Fetch and Optimistic/Pessimistic Rendering | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/27-fetch-refactoring) | [Video](https://youtu.be/KKO9OkfGPj0) |
 
 
 
