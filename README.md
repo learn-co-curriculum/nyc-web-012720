@@ -48,7 +48,7 @@
 | Rails API | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/26-rails-api) | [Video](https://www.youtube.com/watch?v=jowhNekhguo), [API Quiz Review](https://youtu.be/M1JQmD6PN7g) |
 | Fetch and Optimistic/Pessimistic Rendering | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/27-fetch-refactoring) | [Video](https://youtu.be/KKO9OkfGPj0) |
 | Pokemon Challenge Review | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/28-pokemon-challenge-review) | [Video](https://youtu.be/ElO4YSJBelg) |
-| OOJS | Code TBA | [Video](https://www.youtube.com/watch?v=aYY98izioW0) |
+| OOJS | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/29-object-oriented-javascript) | [Video](https://www.youtube.com/watch?v=aYY98izioW0) |
 
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
