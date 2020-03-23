@@ -49,6 +49,7 @@
 | Fetch and Optimistic/Pessimistic Rendering | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/27-fetch-refactoring) | [Video](https://youtu.be/KKO9OkfGPj0) |
 | Pokemon Challenge Review | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/28-pokemon-challenge-review) | [Video](https://youtu.be/ElO4YSJBelg) |
 | OOJS | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/29-object-oriented-javascript) | [Video](https://www.youtube.com/watch?v=aYY98izioW0) |
+| OOJS Review | [Code](https://github.com/sedoran/oojs-social-distancing) | [Video](https://youtu.be/L020wNB0r88) |
 
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
