@@ -51,6 +51,8 @@
 | OOJS | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/29-object-oriented-javascript) | [Video](https://www.youtube.com/watch?v=aYY98izioW0) |
 | OOJS Review | [Code](https://github.com/sedoran/oojs-social-distancing) | [Video](https://youtu.be/L020wNB0r88) |
 | `this` | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/30-this) | [Video](https://youtu.be/iETmZnTpraY) |
+| ES6 Syntax | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/31-es6-syntax) | [Video](https://www.youtube.com/watch?v=5I6iiSswakA) |
+
 
 
 
