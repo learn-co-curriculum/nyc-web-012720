@@ -54,6 +54,40 @@
 | ES6 Syntax | [Code](https://github.com/learn-co-students/nyc-web-012720/tree/master/31-es6-syntax) | [Video](https://www.youtube.com/watch?v=5I6iiSswakA) |
 
 
+## Module 4
+| Topic                             | Code                                   | Video                                      |
+| -----                             | ----                                   | -----                                      |
+| Intro to React 🌀                 | [Code][intro-react-code]               | [Pt1][intro-r-vid-1] [Pt2][intro-r-vid-2]  |
+| JSX & Props 🧙🏽‍♂️                  | [Code][jsx-props-code]                 | [Video][jsx-props-vid]                     |
+| State & Events 🎟                 | [Code][events-state-code]              | [Video][events-state-vid]                  |
+| Build & Review 🛠                 | [Code][build-review-code]              | [Video][build-review-vid]                  |
+| State & Forms 📝                  | [Code][state-forms-code]               | [Video][state-forms-vid]                   |
+| Lifecycle 🌳↺                     | [Code][life-code]                      | [Pt1][life-1] [Pt2][life-2] [Pt3][life-3]  |
+| Router 🔀                         | [Code][router-code]                    | [Video][router-vid]                        |
+| Fullstack Auth 🔐👤               | [Code][jwt-auth-code]                  | [Vid1][jwt-auth-vid-1]/[Vid2][jwt-auth-vid-2]|
+
+
+
+[intro-react-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/32-intro-to-react
+[intro-r-vid-1]:https://youtu.be/MFGfbgfAM9w
+[intro-r-vid-2]:https://youtu.be/tbK8LFcjvPY
+[jsx-props-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/33-jsx-props
+[jsx-props-vid]:#
+[events-state-code]:#
+[events-state-vid]:#
+[build-review-code]:#
+[build-review-vid]:#
+[state-forms-code]:#
+[state-forms-vid]:#
+[life-code]:#
+[life-1]:#
+[life-2]:#
+[life-3]:#
+[router-code]:#
+[router-vid]:#
+[jwt-auth-code]:https://github.com/learn-co-students/nyc-web-students-051319/tree/master/33-fullstack-auth
+[jwt-auth-vid-1]:https://youtu.be/fbpjdJInOZM
+[jwt-auth-vid-2]:https://youtu.be/UCF0_eKB4Hs
 
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
