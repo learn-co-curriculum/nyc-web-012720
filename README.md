@@ -73,8 +73,8 @@
 [intro-r-vid-2]:https://youtu.be/tbK8LFcjvPY
 [jsx-props-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/33-jsx-props
 [jsx-props-vid]:https://youtu.be/f5T5McA6uOk
-[events-state-code]:#
-[events-state-vid]:#
+[events-state-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/34-events-state
+[events-state-vid]:https://youtu.be/2kje4spLhMM
 [build-review-code]:#
 [build-review-vid]:#
 [state-forms-code]:#
