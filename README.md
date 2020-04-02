@@ -62,7 +62,7 @@
 | State & Events 🎟                 | [Code][events-state-code]              | [Video][events-state-vid]                  |
 | Build & Review 🛠                 | [Code][build-review-code]              | [Video][build-review-vid]                  |
 | State & Forms 📝                  | [Code][state-forms-code]               | [Video][state-forms-vid]                   |
-| Lifecycle 🌳↺                     | [Code][life-code]                      | [Pt1][life-1] [Pt2][life-2] [Pt3][life-3]  |
+| Lifecycle 🌳↺                     | [Code][life-code]                      | [Pt1-first30min][life-1] [Pt2][life-2] [Pt3][life-3]  |
 | Router 🔀                         | [Code][router-code]                    | [Video][router-vid]                        |
 | Fullstack Auth 🔐👤               | [Code][jwt-auth-code]                  | [Vid1][jwt-auth-vid-1]/[Vid2][jwt-auth-vid-2]|
 
@@ -80,7 +80,7 @@
 [state-forms-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/36-state-forms
 [state-forms-vid]:https://youtu.be/HVMKT5dpOUM
 [life-code]:#
-[life-1]:#
+[life-1]:https://www.youtube.com/watch?v=5ix_OKScJvI&feature=youtu.be
 [life-2]:#
 [life-3]:#
 [router-code]:#
