@@ -82,6 +82,9 @@
 [life-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/37-lifecycle
 [life-1]:https://www.youtube.com/watch?v=5ix_OKScJvI&feature=youtu.be
 [life-2]:https://youtu.be/TchIBaVLl6M
+[sushi-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/React-Practice-Code-Challenge-nyc-web-012720
+[sushi-1]:https://youtu.be/gb1MQZg7I90
+[sushi-2]:#
 [router-code]:#
 [router-vid]:#
 [jwt-auth-code]:https://github.com/learn-co-students/nyc-web-students-051319/tree/master/33-fullstack-auth
