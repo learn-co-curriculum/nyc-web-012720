@@ -63,6 +63,7 @@
 | Build & Review 🛠                 | [Code][build-review-code]              | [Video][build-review-vid]                  |
 | State & Forms 📝                  | [Code][state-forms-code]               | [Video][state-forms-vid]                   |
 | Lifecycle 🌳↺                     | [Code][life-code]                      | [Prep][life-1] [Live][life-2]              |
+| Sushi Review 🍣                   | [Code][sushi-code]                     | [Main][sushi-1] [Bonus][sushi-2]              |
 | Router 🔀                         | [Code][router-code]                    | [Video][router-vid]                        |
 | Fullstack Auth 🔐👤               | [Code][jwt-auth-code]                  | [Vid1][jwt-auth-vid-1]/[Vid2][jwt-auth-vid-2]|
 
