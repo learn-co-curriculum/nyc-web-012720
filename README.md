@@ -63,7 +63,8 @@
 | Build & Review 🛠                 | [Code][build-review-code]              | [Video][build-review-vid]                  |
 | State & Forms 📝                  | [Code][state-forms-code]               | [Video][state-forms-vid]                   |
 | Lifecycle 🌳↺                     | [Code][life-code]                      | [Prep][life-1] [Live][life-2]              |
-| Sushi Review 🍣                   | [Code][sushi-code]                     | [Main][sushi-1] [Bonus][sushi-2]              |
+| Sushi Review 🍣                   | [Code][sushi-code]                     | [Main][sushi-1] [Bonus][sushi-2]           |
+| Best Practices ✨                 | [Code][best-react-code]                | [Video][best-react-vid]                    |
 | Router 🔀                         | [Code][router-code]                    | [Video][router-vid]                        |
 | Fullstack Auth 🔐👤               | [Code][jwt-auth-code]                  | [Vid1][jwt-auth-vid-1]/[Vid2][jwt-auth-vid-2]|
 
@@ -86,6 +87,8 @@
 [sushi-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/React-Practice-Code-Challenge-nyc-web-012720
 [sushi-1]:https://youtu.be/gb1MQZg7I90
 [sushi-2]:#
+[best-react-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/38-best-practices
+[best-react-vid]:#
 [router-code]:#
 [router-vid]:#
 [jwt-auth-code]:https://github.com/learn-co-students/nyc-web-students-051319/tree/master/33-fullstack-auth
