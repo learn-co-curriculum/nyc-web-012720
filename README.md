@@ -67,7 +67,7 @@
 | Best Practices ✨                 | [Code][best-react-code]                | [Video][best-react-vid]                    |
 | Router 🔀                         | [Code][router-code]                    | [Video][router-vid]                        |
 | Fullstack Auth 🔐👤               | [Code][jwt-auth-code]                  | [Vid1][jwt-auth-vid-1]/[Vid2][jwt-auth-vid-2]|
-| EXTRA ROUTER                      | [Code][extra-router-code]               |                                           |
+| EXTRA ROUTER                      | [Code][extra-router-code]               |[Vid][extra-router-vid]                    |
 
 
 [intro-react-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/32-intro-to-react
@@ -95,7 +95,7 @@
 [jwt-auth-vid-1]:https://youtu.be/fbpjdJInOZM
 [jwt-auth-vid-2]:https://youtu.be/UCF0_eKB4Hs
 [extra-router-code]:https://github.com/cmccarthy15/integratemed-frontend
-
+[extra-router-vid]:https://youtu.be/VOz1d8fGJXQ
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
 [intro_vid]: https://youtu.be/UM_JRT7-v1U
