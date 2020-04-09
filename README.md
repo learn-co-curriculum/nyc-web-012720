@@ -89,8 +89,8 @@
 [sushi-2]:#
 [best-react-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/38-best-practices
 [best-react-vid]:https://youtu.be/p8n3iRmUe-s
-[router-code]:#
-[router-vid]:#
+[router-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/39-react-router
+[router-vid]:https://youtu.be/u3km0lXml04
 [jwt-auth-code]:https://github.com/learn-co-students/nyc-web-students-051319/tree/master/33-fullstack-auth
 [jwt-auth-vid-1]:https://youtu.be/fbpjdJInOZM
 [jwt-auth-vid-2]:https://youtu.be/UCF0_eKB4Hs
