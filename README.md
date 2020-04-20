@@ -69,7 +69,7 @@
 | Fullstack Auth 🔐👤               | [Code][jwt-auth-code]                  | [Vid1][jwt-auth-vid-1]/[Vid2][jwt-auth-vid-2]|
 | EXTRA ROUTER                      | [Code][extra-router-code]               |[Vid][extra-router-vid]                    |
 | Hooks 🧷🖇🔗📎                   | [Code][hooks-code]                      | [Vid][hooks-vid-1]                        |
-| Redux ⛅️🔀                        | [Code][redux-code]                     | [Redux][redux-vid] [Sushi][sushi-redux] [Thunk][thunk-vid]|
+| Redux ⛅️🔀                        | [Code][redux-code]                     | [Redux][redux-vid] [Sushi & Thunk][sushi-redux]|
 
 
 [intro-react-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/32-intro-to-react
@@ -102,8 +102,7 @@
 [hooks-vid-1]:https://youtu.be/vYUgnEGTLuY
 [redux-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/41-redux
 [redux-vid]:https://youtu.be/6vzx_Hp0RBw
-[sushi-redux]:#
-[thunk-vid]:#
+[sushi-redux]:https://youtu.be/3ncLAsa4Odk
 
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
 [intro_vid]: https://youtu.be/UM_JRT7-v1U
