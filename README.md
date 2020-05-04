@@ -104,6 +104,15 @@
 [redux-vid]:https://youtu.be/6vzx_Hp0RBw
 [sushi-redux]:https://youtu.be/3ncLAsa4Odk
 
+
+## Module 5
+| Topic                             | Code                                   | Video                                      |
+| -----                             | ----                                   | -----                                      |
+| Big O & Whiteboarding             | [Code][whiteboard-code]                | [Video][whiteboard-vid]                    |
+[whiteboard-code]:https://github.com/learn-co-students/nyc-web-012720/tree/master/42-big-o-whiteboarding
+[whiteboard-vid]:https://youtu.be/5bRYxKI8ziI
+
+
 [intro_code]: https://github.com/learn-co-students/nyc-web-012720/tree/master/10-intro-sinatra-mvc
 [intro_vid]: https://youtu.be/UM_JRT7-v1U
 
